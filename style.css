@@ -7,7 +7,7 @@
 }
 
 html, body {
-     height: 100vh;
+     height: 102vh;
      width: 100vw;
      background-color: black;
 }
@@ -33,5 +33,13 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
     height: 627px;
-    width: 311px;   
+    width: 311px;  
+}
+
+iframe#tela {
+    position: relative;
+    top: 86px;
+    left: 531px;
+    width: 266px;
+    height: 471px;
 }
